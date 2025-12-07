@@ -1,4 +1,4 @@
-# 🇮🇳 Intellectual Property Rights (IPR) Internship Portfolio
+# Intellectual Property Rights (IPR) Internship Portfolio
 
 This repository documents my work and learnings from the **4-week Online Internship Programme on Intellectual Property Rights**, conducted by the **Office of the Controller General of Patents, Designs and Trade Marks (CGPDTM)**, Government of India (Oct–Nov 2025).
 
