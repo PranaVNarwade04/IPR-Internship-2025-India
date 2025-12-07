@@ -49,4 +49,4 @@ During the internship, I completed technical assignments bridging the gap betwee
 I would like to thank **Dr. Sagar Shinde Sir** for facilitating this opportunity. I am also grateful to the experts at **NIPAM (National IP Awareness Mission)** for their detailed sessions on the legal framework of innovation.
 
 ---
-*Connect with me on [LinkedIn](https://www.linkedin.com/in/pranav-narwade/)!*
+*Connect with me on [LinkedIn](https://www.linkedin.com/in/pranav-narwade-523a30259)!*
